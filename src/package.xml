@@ -13,5 +13,9 @@
         <members>SOQL_Query_Explain</members>
         <name>CustomTab</name>
     </types>
+    <types>
+        <members>Explain_Query_Loopback</members>
+        <name>RemoteSiteSetting</name>
+    </types>
     <version>30.0</version>
 </Package>
